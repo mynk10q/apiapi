@@ -1,0 +1,11 @@
+{
+  "name": "apiapi",
+  "version": "1.0.0",
+  "description": "Custom mobile lookup API by mynk",
+  "main": "lookup.js",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "start": "node lookup.js"
+  }
+}
